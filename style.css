@@ -102,7 +102,14 @@ i.envelope { background: no-repeat url('mail.svg');  background-size: 100%;}
 i.github { background: no-repeat url('github-mark.svg');   background-size: 100%;}
 i.scholar { background: no-repeat url('hat.svg'); background-size: 100%;}
 
+.footer {
+    display:block;
+}
 
+.foot {
+    width:45%; 
+    padding: 1em;
+}
 
 @media only screen and (min-width: 800px) {
 
@@ -142,4 +149,14 @@ i.scholar { background: no-repeat url('hat.svg'); background-size: 100%;}
     }
 
     .article {margin: 0.5em}
+
+    .footer {
+        display:flex;
+    }
+    
+    .foot {
+        width:45%; 
+        padding: 1em;
+        float:none;
+    }    
 }
