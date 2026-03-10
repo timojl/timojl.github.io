@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 256 256"
+   width="256"
+   height="256"
+   role="img"
+   aria-label="Scientific paper (no image available)"
+   version="1.1"
+   id="svg5902"
+   sodipodi:docname="noimg.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5906" />
+  <sodipodi:namedview
+     id="namedview5904"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.72713226"
+     inkscape:cx="-652.56354"
+     inkscape:cy="222.79303"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5902" />
+  <!-- Background -->
+  <rect
+     width="256"
+     height="256"
+     rx="24"
+     fill="#f2f2f2"
+     id="rect5880" />
+  <!-- Paper shape -->
+  <path
+     d="m 65.360349,43.084946 h 86.702661 l 34.68107,34.681067 V 214.85997 H 65.360349 Z"
+     fill="#ffffff"
+     stroke="#b0b0b0"
+     stroke-width="4.33513"
+     id="path5882"
+     sodipodi:nodetypes="cccccc" />
+  <!-- Folded corner -->
+  <path
+     d="M 150.21863,44.665848 V 79.346915 H 184.8997"
+     fill="#e6e6e6"
+     id="path5884"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#b0b0b0;stroke-width:4.33513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     sodipodi:nodetypes="ccc" />
+  <!-- Text lines -->
+  <line
+     x1="88"
+     y1="104"
+     x2="168"
+     y2="104"
+     stroke="#b0b0b0"
+     stroke-width="4"
+     id="line5886" />
+  <line
+     x1="88"
+     y1="124"
+     x2="168"
+     y2="124"
+     stroke="#b0b0b0"
+     stroke-width="4"
+     id="line5888" />
+  <line
+     x1="88"
+     y1="144"
+     x2="140"
+     y2="144"
+     stroke="#b0b0b0"
+     stroke-width="4"
+     id="line5890" />
+  <!-- Simple chart (science indicator) -->
+  <line
+     x1="88"
+     y1="176"
+     x2="88"
+     y2="200"
+     stroke="#b0b0b0"
+     stroke-width="4"
+     id="line5892" />
+  <line
+     x1="88"
+     y1="200"
+     x2="168"
+     y2="200"
+     stroke="#b0b0b0"
+     stroke-width="4"
+     id="line5894" />
+  <rect
+     x="96"
+     y="168"
+     width="12"
+     height="32"
+     fill="#b0b0b0"
+     id="rect5896" />
+  <rect
+     x="118"
+     y="156"
+     width="12"
+     height="44"
+     fill="#b0b0b0"
+     id="rect5898" />
+  <rect
+     x="140"
+     y="180"
+     width="12"
+     height="20"
+     fill="#b0b0b0"
+     id="rect5900" />
+</svg>
